@@ -8,3 +8,6 @@ merge push checkout
 
 3. git diff --staged 
     what is now changed but not staged
+
+4 create a new branch  
+    git branch <branch name>

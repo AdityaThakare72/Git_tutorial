@@ -11,3 +11,6 @@ merge push checkout
 
 4 create a new branch  
     git branch <branch name>
+
+    to change the branch
+    git checkout <branch name>

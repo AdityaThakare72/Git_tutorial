@@ -1,0 +1,4 @@
+this is the sample file to check git functions
+
+
+1. git init

@@ -4,3 +4,7 @@ this is the sample file to check git functions
 1. git init
 2. made changes
 3. git branch -M main... here renaming the branch 
+4. created a git repo in github
+    https://github.com/AdityaThakare72/Git_tutorial.git
+    we will be commiting here
+    git remote add origin https://github.com/AdityaThakare72/Git_tutorial.git

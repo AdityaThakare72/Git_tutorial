@@ -8,3 +8,8 @@ this is the sample file to check git functions
     https://github.com/AdityaThakare72/Git_tutorial.git
     we will be commiting here
     git remote add origin https://github.com/AdityaThakare72/Git_tutorial.git
+
+5. u can push the changes to the remote (the one in the github) repo
+    git push origin main
+
+    here origin is the url of ur remote repo

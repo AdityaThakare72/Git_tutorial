@@ -2,3 +2,5 @@ this is the sample file to check git functions
 
 
 1. git init
+2. made changes
+3. git branch -M main... here renaming the branch 

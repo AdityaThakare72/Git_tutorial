@@ -13,3 +13,6 @@ this is the sample file to check git functions
     git push origin main
 
     here origin is the url of ur remote repo
+
+6. u can restore the file to the previous stage
+    git restore <filename>

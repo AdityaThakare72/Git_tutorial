@@ -1,0 +1,10 @@
+this is for dev branch
+
+switched to dev
+
+then created this file 
+
+
+git merge <branch name>
+
+will merge the specified branch history to current one

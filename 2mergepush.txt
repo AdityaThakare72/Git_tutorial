@@ -1,0 +1,10 @@
+merge push checkout
+
+1.  stage this and then unstage
+    git restore --staged "<filename>"
+
+2.  reset => unstage the file while retaining the changes 
+    git reset <filename>
+
+3. git diff --staged 
+    what is now changed but not staged
